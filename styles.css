@@ -202,7 +202,7 @@ header video {
 }
 
 .nav-open {
-  transform: translateX(-50%);
+  transform: translateX(100%);
 }
 
 .nav-ul li {
